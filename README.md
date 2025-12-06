@@ -1,4 +1,4 @@
-# 🧠 AI Prompt Engineering Technique Samples
+# AI Prompt Engineering Technique Samples
 
 Welcome to the **AI Prompt Engineering Technique Samples** repository! This collection features advanced, self-contained Jupyter notebooks designed to demonstrate state-of-the-art reasoning patterns using the OpenAI API.
 
